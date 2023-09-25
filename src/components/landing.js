@@ -7,7 +7,7 @@ const Landing = (props) => {
   console.log(props)
   return (
     <div>
-      Landing
+      Landing Page
       <Link to="/dashboard">dashboard</Link>
     </div>
   )
